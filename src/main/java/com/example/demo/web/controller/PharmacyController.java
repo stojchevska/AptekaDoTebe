@@ -16,4 +16,8 @@ return "pharmacies";
     public String getMap(){
         return "mapa";
     }
+    @GetMapping("/help")
+    public String getHelp(){
+        return "help";
+    }
 }
