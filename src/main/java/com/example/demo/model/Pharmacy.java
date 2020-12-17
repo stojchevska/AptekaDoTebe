@@ -10,14 +10,20 @@ import java.time.LocalTime;
 @Getter
 @Setter
 public class Pharmacy {
-    public Pharmacy(Long id, String name, String address) {
+
+    public Pharmacy(Long id, String name, Long lon, Long lat) {
         this.id = id;
         this.name = name;
-        this.address = address;
+        this.lon = lon;
+        this.lat = lat;
     }
 
     private Long id;
     private String name;
-    private String address;
+    private Long lon;
+    private Long lat;
 
+    public Pharmacy() {
+
+    }
 }
