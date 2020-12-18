@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff676861-99f2-4aec-87fb-bd6c53655857" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mapa.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mapa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/mapaEN.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/mapaEN.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +22,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -47,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608318823647</updated>
       <workItem from="1608318825021" duration="746000" />
-      <workItem from="1608319649846" duration="2621000" />
+      <workItem from="1608319649846" duration="4620000" />
     </task>
     <servers />
   </component>
