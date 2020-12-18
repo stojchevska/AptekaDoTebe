@@ -8,16 +8,29 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping("/pharmacy")
 public class PharmacyController {
-    @GetMapping("/all")
-    public String getAllPharmacies() {
+    @GetMapping("/all/mk")
+    public String getAllPharmaciesMK() {
 return "pharmacies";
     }
-    @GetMapping("/map")
-    public String getMap(){
+    @GetMapping("/map/mk")
+    public String getMapMK(){
         return "mapa";
     }
-    @GetMapping("/help")
-    public String getHelp(){
+    @GetMapping("/help/mk")
+    public String getHelpMK(){
         return "help";
+    }
+
+    @GetMapping("/help/en")
+    public String getHelpEN(){
+        return "helpEN";
+    }
+    @GetMapping("/all/en")
+    public String getAllPharmaciesEN(){
+        return "pharmaciesEN";
+    }
+    @GetMapping("/map/en")
+    public String getMapEN(){
+        return "mapEN";
     }
 }

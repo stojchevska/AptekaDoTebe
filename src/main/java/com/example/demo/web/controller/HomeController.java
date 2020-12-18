@@ -8,8 +8,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/home")
 public class HomeController {
 
-    @GetMapping
+    @GetMapping("/mk")
     public String getHomePage() {
         return "home";
+    }
+    @GetMapping("/en")
+    public String getHomePageEN() {
+        return "homeEN";
     }
 }
