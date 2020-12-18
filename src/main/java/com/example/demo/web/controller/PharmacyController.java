@@ -31,6 +31,6 @@ return "pharmacies";
     }
     @GetMapping("/map/en")
     public String getMapEN(){
-        return "mapEN";
+        return "mapaEN";
     }
 }
