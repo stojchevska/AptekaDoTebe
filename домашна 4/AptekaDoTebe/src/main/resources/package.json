@@ -1,5 +1,13 @@
+<<<<<<< Updated upstream
 {
   "name": "AptekaDoTebe",
   "version": "2.0.0",
   "dependencies":[]
 }
+=======
+{
+  "name": "AptekaDoTebe",
+  "version": "2.0.0",
+  "dependencies":[]
+}
+>>>>>>> Stashed changes
