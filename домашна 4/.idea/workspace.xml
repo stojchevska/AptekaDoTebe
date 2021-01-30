@@ -11,6 +11,7 @@
       <change afterPath="$PROJECT_DIR$/AptekaDoTebe/demo.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AptekaDoTebe/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AptekaDoTebe/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AptekaDoTebe/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AptekaDoTebe/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AptekaDoTebe/src/main/java/com/example/demo/AptekaDoTebeApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AptekaDoTebe/src/main/java/com/example/demo/model/Pharmacy.java" afterDir="false" />
@@ -19,7 +20,6 @@
       <change afterPath="$PROJECT_DIR$/AptekaDoTebe/src/main/java/com/example/demo/web/controller/HomeController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AptekaDoTebe/src/main/java/com/example/demo/web/controller/PharmacyController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AptekaDoTebe/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AptekaDoTebe/src/main/resources/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AptekaDoTebe/src/main/resources/system.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AptekaDoTebe/src/main/resources/templates/closest.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/AptekaDoTebe/src/main/resources/templates/data.geojson" afterDir="false" />
@@ -81,6 +81,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksandra\Documents\GitHub\AptekaDoTebe\домашна 4\AptekaDoTebe" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
@@ -102,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612015755633</updated>
-      <workItem from="1612015757419" duration="2052000" />
+      <workItem from="1612015757419" duration="2673000" />
     </task>
     <servers />
   </component>
