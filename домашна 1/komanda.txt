@@ -1,1 +1,0 @@
-osmfilter map.osm --keep="amenity=pharmacy" | osmconvert64.exe - --all-to-nodes --csv="@id @lon @lat amenity name" --csv-headline --csv-separator="," -o="test_03.csv"
