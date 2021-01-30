@@ -1,0 +1,374 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4226797,41.9984708 ]
+    },
+    "properties": {
+    "@id":444938811,
+    "amenity":"pharmacy",
+    "name":"Zegin"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4154083,41.9932326 ]
+    },
+    "properties": {
+    "@id":459673288,
+    "amenity":"pharmacy",
+    "name":"Зегин"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4373274,41.9972254 ]
+    },
+    "properties": {
+    "@id":498850840,
+    "amenity":"pharmacy",
+    "name":"Зегин"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4219509,41.9919776 ]
+    },
+    "properties": {
+    "@id":1652699470,
+    "amenity":"pharmacy",
+    "name":"Уни Медикал"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4308199,41.9869002 ]
+    },
+    "properties": {
+    "@id":1747986303,
+    "amenity":"pharmacy",
+    "name":"Зегин"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4078311,41.9960357 ]
+    },
+    "properties": {
+    "@id":2294320035,
+    "amenity":"pharmacy",
+    "name":"Зегин"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4078707,42.0032478 ]
+    },
+    "properties": {
+    "@id":2601311980,
+    "amenity":"pharmacy",
+    "name":"Betty"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4460324,41.9910923 ]
+    },
+    "properties": {
+    "@id":3099334941,
+    "amenity":"pharmacy",
+    "name":"Zegin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4311375,41.9943079 ]
+    },
+    "properties": {
+    "@id":3104012020,
+    "amenity":"pharmacy",
+    "name":"Eуpoфapм"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4198380,41.9899658 ]
+    },
+    "properties": {
+    "@id":3832362529,
+    "amenity":"pharmacy",
+    "name":"Виола"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4196296,41.9898127 ]
+    },
+    "properties": {
+    "@id":3832368052,
+    "amenity":"pharmacy",
+    "name":"Betty"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4377527,41.9850045 ]
+    },
+    "properties": {
+    "@id":4266034098,
+    "amenity":"pharmacy",
+    "name":"Зегин"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4341995,41.9928765 ]
+    },
+    "properties": {
+    "@id":4375519189,
+    "amenity":"pharmacy",
+    "name":"Зегин ( стара градска болница)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4085080,41.9969243 ]
+    },
+    "properties": {
+    "@id":4614661190,
+    "amenity":"pharmacy",
+    "name":"Опоум"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4276434,41.9958705 ]
+    },
+    "properties": {
+    "@id":4846704246,
+    "amenity":"pharmacy",
+    "name":"Виола"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4273767,41.9954508 ]
+    },
+    "properties": {
+    "@id":4846704247,
+    "amenity":"pharmacy",
+    "name":"Зегин"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4394269,42.0024902 ]
+    },
+    "properties": {
+    "@id":4990134422,
+    "amenity":"pharmacy",
+    "name":"Зегин"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4403185,41.9964634 ]
+    },
+    "properties": {
+    "@id":6054048888,
+    "amenity":"pharmacy",
+    "name":"Аптека"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4224854,41.9985010 ]
+    },
+    "properties": {
+    "@id":6054050093,
+    "amenity":"pharmacy",
+    "name":"Zegin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4152598,42.0004895 ]
+    },
+    "properties": {
+    "@id":6054050097,
+    "amenity":"pharmacy",
+    "name":"Betty"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4406066,42.0105657 ]
+    },
+    "properties": {
+    "@id":6278889139,
+    "amenity":"pharmacy",
+    "name":"Betty"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4259201,41.9907383 ]
+    },
+    "properties": {
+    "@id":6279836416,
+    "amenity":"pharmacy",
+    "name":"Аптека"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4431560,42.0086285 ]
+    },
+    "properties": {
+    "@id":6281849279,
+    "amenity":"pharmacy",
+    "name":"АПТЕКА BARNATORE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4434403,42.0082379 ]
+    },
+    "properties": {
+    "@id":6281849280,
+    "amenity":"pharmacy",
+    "name":"Зегин"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4429723,42.0075593 ]
+    },
+    "properties": {
+    "@id":6281849281,
+    "amenity":"pharmacy",
+    "name":"Аптека"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4245363,41.9949134 ]
+    },
+    "properties": {
+    "@id":6814246729,
+    "amenity":"pharmacy",
+    "name":"Zegin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4226605,41.9982536 ]
+    },
+    "properties": {
+    "@id":6815918388,
+    "amenity":"pharmacy",
+    "name":"Betty"
+    }
+  },
+
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4357877,41.9884981 ]
+    },
+    "properties": {
+    "@id":1000000121652407,
+    "amenity":"pharmacy",
+    "name":"Билна Аптека"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4260755,42.0011013 ]
+    },
+    "properties": {
+    "@id":1000000176158374,
+    "amenity":"pharmacy",
+    "name":"Дисконт"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.4264055,41.9969353 ]
+    },
+    "properties": {
+    "@id":1000000176448659,
+    "amenity":"pharmacy",
+    "name":"Еурофарм"
+    }
+  }
+]
+}
